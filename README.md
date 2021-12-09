@@ -20,5 +20,7 @@
    <img align="center" alt="MySQL" height="30" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+  ##
+
 ![Snake animation](https://github.com/pabulojorge/pabulojorge/blob/output/github-contribution-grid-snake.svg)
 
